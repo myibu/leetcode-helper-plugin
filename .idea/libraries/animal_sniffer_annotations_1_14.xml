@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="animal-sniffer-annotations-1.14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/animal-sniffer-annotations-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/byte-buddy-1.8.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/checker-compat-qual-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-exec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/error_prone_annotations-2.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/guava-25.0-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/j2objc-annotations-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
